@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-5bf2f2bdaa.qfknj.cn/sitemap.xml
